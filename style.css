@@ -1,0 +1,53 @@
+.jumbotron {
+	background-image: url(img/ga1.jpg);
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+	color: whitesmoke;
+	font-weight: bold;
+}
+.jumbotron .lead{
+	font-weight: bold;
+	font-variant: revert;
+}
+.jumbotron .btn {
+	background-color: #ff1f57;
+	border: none;
+	border-radius: 25px;
+}
+nav {
+	background-color: #FFAC42;
+}
+a[class="navbar-brand"] {
+	color: whitesmoke;
+	font-weight: bold;
+	font-style: oblique;
+}
+input[type="search"] {
+  position: absolute;
+  width: 387px;
+  height: 40px;
+  left: 356px;
+  top: 76px;
+  background: #D9D9D9;
+  border-radius: 50px;
+  border: none;
+}
+
+button[type="submit"] {
+  background-color: #FF1F57;
+  color: white;
+  width: 87px;
+  height: 40px;
+  left: 756px;
+  top: 76px;
+  border-radius: 50px;
+  position: absolute;
+  border: none;
+}
+h5[class="icon-inline"] {
+	position: absolute;
+	right: 30px;
+	top: 10px;
+	font-size: 25px;
+}
